@@ -1,0 +1,8 @@
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\bin\Debug\netcoreapp3.1\InventoryHelpers.deps.json
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\bin\Debug\netcoreapp3.1\InventoryHelpers.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\bin\Debug\netcoreapp3.1\InventoryHelpers.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\obj\Debug\netcoreapp3.1\InventoryHelpers.AssemblyInfoInputs.cache
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\obj\Debug\netcoreapp3.1\InventoryHelpers.AssemblyInfo.cs
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\obj\Debug\netcoreapp3.1\InventoryHelpers.csproj.CoreCompileInputs.cache
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\obj\Debug\netcoreapp3.1\InventoryHelpers.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\04\Activity0401_ModifyingTheItem\InventoryHelpers\obj\Debug\netcoreapp3.1\InventoryHelpers.pdb
