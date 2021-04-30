@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity0601_QuickCrud_Web", "Activity0601_QuickCrud_Web\Activity0601_QuickCrud_Web.csproj", "{EA835BEF-3EA5-4C6D-A423-2953B3FCA133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA835BEF-3EA5-4C6D-A423-2953B3FCA133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA835BEF-3EA5-4C6D-A423-2953B3FCA133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA835BEF-3EA5-4C6D-A423-2953B3FCA133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA835BEF-3EA5-4C6D-A423-2953B3FCA133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7589A97-0D6E-4E8B-8B23-988218F02A3B}
+	EndGlobalSection
+EndGlobal
