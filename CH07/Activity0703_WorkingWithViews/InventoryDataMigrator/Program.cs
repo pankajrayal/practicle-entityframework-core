@@ -27,6 +27,8 @@ namespace InventoryDataMigrator {
             using (var context = new InventoryDbContext(_optionsBuilder.Options)) {
                 var categories = new BuildCategories(context);
                 categories.ExecuteSeed();
+                var items = new BuildItems(context);
+                items.ExecuteSeed();
             }
         }
     }
