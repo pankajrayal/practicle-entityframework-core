@@ -9,5 +9,13 @@ namespace Activity0601_QuickCrud_Web.Data {
 
         public DbSet<Item> Items { get; set; }
         public DbSet<Category> Categories { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<AllItemsPipeADelimitedString>(x => {
+                x.HasNoKey();
+                x.ToView("AllItemsPipeDelimitedString");
+            });
+        }
     }
 }
