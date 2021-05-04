@@ -79,6 +79,19 @@ namespace Activity0801_Sorting_Filtering_Paging {
                     Console.WriteLine($"\t{person.FirstName} {person.LastName}, {person.PersonType}");
                 }
             }
+
+            var salesReportDetails = db.SalesPerson.Select(sp => new { 
+                beid = sp.BusinessEntityId,
+                sp.BusinessEntity.BusinessEntity.FirstName,
+                sp.BusinessEntity.BusinessEntity.LastName,
+                sp.SalesYtd,
+                Territories = sp.SalesTerritoryHistory.Select(y => y.Territory.Name),
+                OrderCount = sp.SalesOrderHeader.Count(),
+                TotalProductsSold = sp.SalesOrderHeader.SelectMany(y => y.SalesOrderDetail).Sum(z => z.OrderQty)
+            }).Where(srds => srds.SalesYtd > filter).AsQueryable()
+            .OrderBy(srds => srds.LastName).ThenBy(srds => srds.FirstName).ThenByDescending(srds => srds.SalesYtd)
+            .Take(20).ToList();
+
         }
     }
 }
