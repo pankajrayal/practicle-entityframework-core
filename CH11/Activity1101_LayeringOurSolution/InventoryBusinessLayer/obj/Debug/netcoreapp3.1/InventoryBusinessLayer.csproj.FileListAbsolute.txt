@@ -1,0 +1,17 @@
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryBusinessLayer.deps.json
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryBusinessLayer.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryBusinessLayer.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.csprojAssemblyReference.cache
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.AssemblyInfoInputs.cache
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.AssemblyInfo.cs
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryDatabaseCore.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryDatabaseLayer.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryModels.dll
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryDatabaseLayer.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryDatabaseCore.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\bin\Debug\netcoreapp3.1\InventoryModels.pdb
+C:\D-Drive\Learning\Code\asp.net\EFCore\CH11\Activity1101_LayeringOurSolution\InventoryBusinessLayer\obj\Debug\netcoreapp3.1\InventoryBusinessLayer.csproj.CopyComplete
